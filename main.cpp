@@ -1,5 +1,20 @@
 #include <QCoreApplication>
+class D
+{
 
+public:
+    void Calc(int a, int b);
+
+};
+
+
+class C
+{
+
+public:
+    void Calc(int a, int b);
+
+};
 class B
 {
 
