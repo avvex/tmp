@@ -1,5 +1,11 @@
 #include <QCoreApplication>
+class C
+{
 
+public:
+    void Calc(int a, int b);
+
+};
 class B
 {
 
