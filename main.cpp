@@ -1,4 +1,13 @@
 #include <QCoreApplication>
+class D
+{
+
+public:
+    void Calc(int a, int b);
+
+};
+
+
 class C
 {
 
